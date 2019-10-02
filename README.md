@@ -9,7 +9,6 @@ Once your pull request is being merged, your profile will be visible in the Subm
 ## Step 1
 Goto the GitHub repository of this project and fork the project to your account. Click on the fork button on the top right corner of the repository page to do it. Once done, GitHub will take you to the forked copy in your account.
 <br/>
-[TEST REPOSITORY](https://github.com/sagewhocodes/GIT-TESTING)
 ## Step 2
 Clone the forked repository to your local machine. Click on the big green button saying "Clone or download" and copy the https url of your repository. Fire up the terminal (on linux systems ctrl+alt+t. on Windows open the Git-bash ) navigate to your desired directory and type the following command. Replace the link with the clone URL of your repository and hit Enter.
 
